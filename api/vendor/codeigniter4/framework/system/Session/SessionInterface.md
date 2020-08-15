@@ -10,7 +10,7 @@
 <td style="width:100%"><em>framework/system/Session/SessionInterface.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Session/Session.md">prev</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Test/CIDatabaseTestCase.md">next</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Throttle/Throttler.md">next</a></td>
 </tr>
 </table>
 
@@ -1685,7 +1685,7 @@ public function getTempKeys(): array;
 <td style="width:100%"><em>framework/system/Session/SessionInterface.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Session/Session.md">prev</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Test/CIDatabaseTestCase.md">next</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Throttle/Throttler.md">next</a></td>
 <td><a href="#">top</a></td></tr>
 </table>
 
@@ -1694,5 +1694,5 @@ public function getTempKeys(): array;
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:15**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:19**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

@@ -126,7 +126,7 @@ THE SOFTWARE.
 <table style="text-align:left;">
 <tr>
 <td>
-<a href="../../../../../../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerAwareTrait.md"><strong>Psr\Log\LoggerAwareTrait</strong></a>
+<strong>Psr\Log\LoggerAwareTrait</strong>
 </td>
 <td>LoggerAwareTrait</td>
 </tr>
@@ -3808,5 +3808,5 @@ protected function setCookie()
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:15**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:19**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

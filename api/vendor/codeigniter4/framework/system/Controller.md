@@ -140,7 +140,7 @@ THE SOFTWARE.
 </tr>
 <tr>
 <td>
-<a href="../../../../../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerInterface.md"><strong>Psr\Log\LoggerInterface</strong></a>
+<strong>Psr\Log\LoggerInterface</strong>
 </td>
 <td>LoggerInterface</td>
 </tr>
@@ -1009,5 +1009,5 @@ protected function validate($rules, array $messages = []): bool
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:08**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:10**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

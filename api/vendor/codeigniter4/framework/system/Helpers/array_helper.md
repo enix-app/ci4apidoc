@@ -10,7 +10,7 @@
 <td style="width:100%"><em>framework/system/Helpers/array_helper.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Helpers/xml_helper.md">prev</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Helpers/array_helper.md">next</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Helpers/date_helper.md">next</a></td>
 </tr>
 </table>
 
@@ -260,7 +260,7 @@ function _array_search_dot(array $indexes, array $array)
 <td style="width:100%"><em>framework/system/Helpers/array_helper.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Helpers/xml_helper.md">prev</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Helpers/array_helper.md">next</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Helpers/date_helper.md">next</a></td>
 <td><a href="#">top</a></td></tr>
 </table>
 
@@ -269,5 +269,5 @@ function _array_search_dot(array $indexes, array $array)
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:06**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:06**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

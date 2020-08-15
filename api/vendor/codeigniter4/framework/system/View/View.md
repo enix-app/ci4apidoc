@@ -10,7 +10,7 @@
 <td style="width:100%"><em>framework/system/View/View.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/View/Table.md">prev</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/CallFinder.md">next</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Common.md">next</a></td>
 </tr>
 </table>
 
@@ -137,7 +137,7 @@ THE SOFTWARE.
 </tr>
 <tr>
 <td>
-<a href="../../../../../../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerInterface.md"><strong>Psr\Log\LoggerInterface</strong></a>
+<strong>Psr\Log\LoggerInterface</strong>
 </td>
 <td>LoggerInterface</td>
 </tr>
@@ -2425,7 +2425,7 @@ protected function logPerformance(float $start, float $end, string $view)
 <td style="width:100%"><em>framework/system/View/View.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/View/Table.md">prev</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/CallFinder.md">next</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Common.md">next</a></td>
 <td><a href="#">top</a></td></tr>
 </table>
 
@@ -2434,5 +2434,5 @@ protected function logPerformance(float $start, float $end, string $view)
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:17**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:20**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

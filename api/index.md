@@ -260,44 +260,6 @@
 8. [CodeIgniter\Session\Session](../api/vendor/codeigniter4/framework/system/Session/Session.md)
 9. [CodeIgniter\Session\SessionInterface](../api/vendor/codeigniter4/framework/system/Session/SessionInterface.md)
 
-### CodeIgniter\Test
-1. [CodeIgniter\Test\CIDatabaseTestCase](../api/vendor/codeigniter4/framework/system/Test/CIDatabaseTestCase.md)
-2. [CodeIgniter\Test\CIUnitTestCase](../api/vendor/codeigniter4/framework/system/Test/CIUnitTestCase.md)
-3. [CodeIgniter\Test\ControllerResponse](../api/vendor/codeigniter4/framework/system/Test/ControllerResponse.md)
-4. [CodeIgniter\Test\ControllerTester](../api/vendor/codeigniter4/framework/system/Test/ControllerTester.md)
-5. [CodeIgniter\Test\DOMParser](../api/vendor/codeigniter4/framework/system/Test/DOMParser.md)
-6. [CodeIgniter\Test\Fabricator](../api/vendor/codeigniter4/framework/system/Test/Fabricator.md)
-7. [CodeIgniter\Test\FeatureResponse](../api/vendor/codeigniter4/framework/system/Test/FeatureResponse.md)
-8. [CodeIgniter\Test\FeatureTestCase](../api/vendor/codeigniter4/framework/system/Test/FeatureTestCase.md)
-9. [CodeIgniter\Test\FeatureTestTrait](../api/vendor/codeigniter4/framework/system/Test/FeatureTestTrait.md)
-10. [CodeIgniter\Test\Filters\CITestStreamFilter](../api/vendor/codeigniter4/framework/system/Test/Filters/CITestStreamFilter.md)
-11. [CodeIgniter\Test\Interfaces\FabricatorModel](../api/vendor/codeigniter4/framework/system/Test/Interfaces/FabricatorModel.md)
-12. [CodeIgniter\Test\Mock\MockAppConfig](../api/vendor/codeigniter4/framework/system/Test/Mock/MockAppConfig.md)
-13. [CodeIgniter\Test\Mock\MockAutoload](../api/vendor/codeigniter4/framework/system/Test/Mock/MockAutoload.md)
-14. [CodeIgniter\Test\Mock\MockBuilder](../api/vendor/codeigniter4/framework/system/Test/Mock/MockBuilder.md)
-15. [CodeIgniter\Test\Mock\MockCLIConfig](../api/vendor/codeigniter4/framework/system/Test/Mock/MockCLIConfig.md)
-16. [CodeIgniter\Test\Mock\MockCURLRequest](../api/vendor/codeigniter4/framework/system/Test/Mock/MockCURLRequest.md)
-17. [CodeIgniter\Test\Mock\MockCache](../api/vendor/codeigniter4/framework/system/Test/Mock/MockCache.md)
-18. [CodeIgniter\Test\Mock\MockCodeIgniter](../api/vendor/codeigniter4/framework/system/Test/Mock/MockCodeIgniter.md)
-19. [CodeIgniter\Test\Mock\MockConnection](../api/vendor/codeigniter4/framework/system/Test/Mock/MockConnection.md)
-20. [CodeIgniter\Test\Mock\MockEmail](../api/vendor/codeigniter4/framework/system/Test/Mock/MockEmail.md)
-21. [CodeIgniter\Test\Mock\MockEvents](../api/vendor/codeigniter4/framework/system/Test/Mock/MockEvents.md)
-22. [CodeIgniter\Test\Mock\MockFileLogger](../api/vendor/codeigniter4/framework/system/Test/Mock/MockFileLogger.md)
-23. [CodeIgniter\Test\Mock\MockIncomingRequest](../api/vendor/codeigniter4/framework/system/Test/Mock/MockIncomingRequest.md)
-24. [CodeIgniter\Test\Mock\MockLanguage](../api/vendor/codeigniter4/framework/system/Test/Mock/MockLanguage.md)
-25. [CodeIgniter\Test\Mock\MockLogger](../api/vendor/codeigniter4/framework/system/Test/Mock/MockLogger.md)
-26. [CodeIgniter\Test\Mock\MockQuery](../api/vendor/codeigniter4/framework/system/Test/Mock/MockQuery.md)
-27. [CodeIgniter\Test\Mock\MockResourceController](../api/vendor/codeigniter4/framework/system/Test/Mock/MockResourceController.md)
-28. [CodeIgniter\Test\Mock\MockResourcePresenter](../api/vendor/codeigniter4/framework/system/Test/Mock/MockResourcePresenter.md)
-29. [CodeIgniter\Test\Mock\MockResponse](../api/vendor/codeigniter4/framework/system/Test/Mock/MockResponse.md)
-30. [CodeIgniter\Test\Mock\MockResult](../api/vendor/codeigniter4/framework/system/Test/Mock/MockResult.md)
-31. [CodeIgniter\Test\Mock\MockSecurity](../api/vendor/codeigniter4/framework/system/Test/Mock/MockSecurity.md)
-32. [CodeIgniter\Test\Mock\MockServices](../api/vendor/codeigniter4/framework/system/Test/Mock/MockServices.md)
-33. [CodeIgniter\Test\Mock\MockSession](../api/vendor/codeigniter4/framework/system/Test/Mock/MockSession.md)
-34. [CodeIgniter\Test\Mock\MockTable](../api/vendor/codeigniter4/framework/system/Test/Mock/MockTable.md)
-35. [CodeIgniter\Test\ReflectionHelper](../api/vendor/codeigniter4/framework/system/Test/ReflectionHelper.md)
-36. [CodeIgniter\Test\TestLogger](../api/vendor/codeigniter4/framework/system/Test/TestLogger.md)
-
 ### CodeIgniter\Throttle
 1. [CodeIgniter\Throttle\Throttler](../api/vendor/codeigniter4/framework/system/Throttle/Throttler.md)
 2. [CodeIgniter\Throttle\ThrottlerInterface](../api/vendor/codeigniter4/framework/system/Throttle/ThrottlerInterface.md)
@@ -324,113 +286,6 @@
 7. [CodeIgniter\View\Table](../api/vendor/codeigniter4/framework/system/View/Table.md)
 8. [CodeIgniter\View\View](../api/vendor/codeigniter4/framework/system/View/View.md)
 
-### Kint\CallFinder
-1. [Kint\CallFinder](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/CallFinder.md)
-
-### Kint\Kint
-1. [Kint\Kint](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Kint.md)
-
-### Kint\Object
-1. [Kint\Object\BasicObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/BasicObject.md)
-2. [Kint\Object\BlobObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/BlobObject.md)
-3. [Kint\Object\ClosureObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/ClosureObject.md)
-4. [Kint\Object\DateTimeObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/DateTimeObject.md)
-5. [Kint\Object\InstanceObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/InstanceObject.md)
-6. [Kint\Object\MethodObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/MethodObject.md)
-7. [Kint\Object\ParameterObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/ParameterObject.md)
-8. [Kint\Object\Representation\ColorRepresentation](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/Representation/ColorRepresentation.md)
-9. [Kint\Object\Representation\DocstringRepresentation](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/Representation/DocstringRepresentation.md)
-10. [Kint\Object\Representation\MicrotimeRepresentation](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/Representation/MicrotimeRepresentation.md)
-11. [Kint\Object\Representation\Representation](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/Representation/Representation.md)
-12. [Kint\Object\Representation\SourceRepresentation](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/Representation/SourceRepresentation.md)
-13. [Kint\Object\Representation\SplFileInfoRepresentation](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/Representation/SplFileInfoRepresentation.md)
-14. [Kint\Object\ResourceObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/ResourceObject.md)
-15. [Kint\Object\StreamObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/StreamObject.md)
-16. [Kint\Object\ThrowableObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/ThrowableObject.md)
-17. [Kint\Object\TraceFrameObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/TraceFrameObject.md)
-18. [Kint\Object\TraceObject](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Object/TraceObject.md)
-
-### Kint\Parser
-1. [Kint\Parser\ArrayObjectPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ArrayObjectPlugin.md)
-2. [Kint\Parser\Base64Plugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/Base64Plugin.md)
-3. [Kint\Parser\BinaryPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/BinaryPlugin.md)
-4. [Kint\Parser\BlacklistPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/BlacklistPlugin.md)
-5. [Kint\Parser\ClassMethodsPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ClassMethodsPlugin.md)
-6. [Kint\Parser\ClassStaticsPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ClassStaticsPlugin.md)
-7. [Kint\Parser\ClosurePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ClosurePlugin.md)
-8. [Kint\Parser\ColorPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ColorPlugin.md)
-9. [Kint\Parser\DOMDocumentPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/DOMDocumentPlugin.md)
-10. [Kint\Parser\DateTimePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/DateTimePlugin.md)
-11. [Kint\Parser\FsPathPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/FsPathPlugin.md)
-12. [Kint\Parser\IteratorPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/IteratorPlugin.md)
-13. [Kint\Parser\JsonPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/JsonPlugin.md)
-14. [Kint\Parser\MicrotimePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/MicrotimePlugin.md)
-15. [Kint\Parser\MysqliPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/MysqliPlugin.md)
-16. [Kint\Parser\Parser](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/Parser.md)
-17. [Kint\Parser\Plugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/Plugin.md)
-18. [Kint\Parser\ProxyPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ProxyPlugin.md)
-19. [Kint\Parser\SerializePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/SerializePlugin.md)
-20. [Kint\Parser\SimpleXMLElementPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/SimpleXMLElementPlugin.md)
-21. [Kint\Parser\SplFileInfoPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/SplFileInfoPlugin.md)
-22. [Kint\Parser\SplObjectStoragePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/SplObjectStoragePlugin.md)
-23. [Kint\Parser\StreamPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/StreamPlugin.md)
-24. [Kint\Parser\TablePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/TablePlugin.md)
-25. [Kint\Parser\ThrowablePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ThrowablePlugin.md)
-26. [Kint\Parser\TimestampPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/TimestampPlugin.md)
-27. [Kint\Parser\ToStringPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/ToStringPlugin.md)
-28. [Kint\Parser\TracePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/TracePlugin.md)
-29. [Kint\Parser\XmlPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Parser/XmlPlugin.md)
-
-### Kint\Renderer
-1. [Kint\Renderer\CliRenderer](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/CliRenderer.md)
-2. [Kint\Renderer\PlainRenderer](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/PlainRenderer.md)
-3. [Kint\Renderer\Renderer](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Renderer.md)
-4. [Kint\Renderer\RichRenderer](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/RichRenderer.md)
-5. [Kint\Renderer\Rich\BinaryPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/BinaryPlugin.md)
-6. [Kint\Renderer\Rich\BlacklistPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/BlacklistPlugin.md)
-7. [Kint\Renderer\Rich\CallablePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/CallablePlugin.md)
-8. [Kint\Renderer\Rich\ClosurePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/ClosurePlugin.md)
-9. [Kint\Renderer\Rich\ColorPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/ColorPlugin.md)
-10. [Kint\Renderer\Rich\DepthLimitPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/DepthLimitPlugin.md)
-11. [Kint\Renderer\Rich\DocstringPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/DocstringPlugin.md)
-12. [Kint\Renderer\Rich\MicrotimePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/MicrotimePlugin.md)
-13. [Kint\Renderer\Rich\ObjectPluginInterface](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/ObjectPluginInterface.md)
-14. [Kint\Renderer\Rich\Plugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/Plugin.md)
-15. [Kint\Renderer\Rich\PluginInterface](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/PluginInterface.md)
-16. [Kint\Renderer\Rich\RecursionPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/RecursionPlugin.md)
-17. [Kint\Renderer\Rich\SimpleXMLElementPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/SimpleXMLElementPlugin.md)
-18. [Kint\Renderer\Rich\SourcePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/SourcePlugin.md)
-19. [Kint\Renderer\Rich\TabPluginInterface](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/TabPluginInterface.md)
-20. [Kint\Renderer\Rich\TablePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/TablePlugin.md)
-21. [Kint\Renderer\Rich\TimestampPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/TimestampPlugin.md)
-22. [Kint\Renderer\Rich\TraceFramePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Rich/TraceFramePlugin.md)
-23. [Kint\Renderer\TextRenderer](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/TextRenderer.md)
-24. [Kint\Renderer\Text\BlacklistPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Text/BlacklistPlugin.md)
-25. [Kint\Renderer\Text\DepthLimitPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Text/DepthLimitPlugin.md)
-26. [Kint\Renderer\Text\MicrotimePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Text/MicrotimePlugin.md)
-27. [Kint\Renderer\Text\Plugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Text/Plugin.md)
-28. [Kint\Renderer\Text\RecursionPlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Text/RecursionPlugin.md)
-29. [Kint\Renderer\Text\TracePlugin](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Renderer/Text/TracePlugin.md)
-
-### Kint\Utils
-1. [Kint\Utils](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/Utils.md)
-
-### Laminas\Escaper
-1. [Laminas\Escaper\Escaper](../api/vendor/codeigniter4/framework/system/ThirdParty/Escaper/Escaper.md)
-2. [Laminas\Escaper\Exception\ExceptionInterface](../api/vendor/codeigniter4/framework/system/ThirdParty/Escaper/Exception/ExceptionInterface.md)
-3. [Laminas\Escaper\Exception\InvalidArgumentException](../api/vendor/codeigniter4/framework/system/ThirdParty/Escaper/Exception/InvalidArgumentException.md)
-4. [Laminas\Escaper\Exception\RuntimeException](../api/vendor/codeigniter4/framework/system/ThirdParty/Escaper/Exception/RuntimeException.md)
-
-### Psr\Log
-1. [Psr\Log\AbstractLogger](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/AbstractLogger.md)
-2. [Psr\Log\InvalidArgumentException](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/InvalidArgumentException.md)
-3. [Psr\Log\LogLevel](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LogLevel.md)
-4. [Psr\Log\LoggerAwareInterface](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerAwareInterface.md)
-5. [Psr\Log\LoggerAwareTrait](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerAwareTrait.md)
-6. [Psr\Log\LoggerInterface](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerInterface.md)
-7. [Psr\Log\LoggerTrait](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/LoggerTrait.md)
-8. [Psr\Log\NullLogger](../api/vendor/codeigniter4/framework/system/ThirdParty/PSR/Log/NullLogger.md)
-
 
 ## Helper
 
@@ -453,10 +308,6 @@
 15. [track](../api/vendor/codeigniter4/framework/system/Helpers/html_helper.md#track)
 16. [ul](../api/vendor/codeigniter4/framework/system/Helpers/html_helper.md#ul)
 17. [video](../api/vendor/codeigniter4/framework/system/Helpers/html_helper.md#video)
-
-#### init_helpers
-1. [d](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/init_helpers.md#d)
-2. [s](../api/vendor/codeigniter4/framework/system/ThirdParty/Kint/init_helpers.md#s)
 
 #### text_helper
 1. [alternator](../api/vendor/codeigniter4/framework/system/Helpers/text_helper.md#alternator)
@@ -555,9 +406,6 @@
 34. [view](../api/vendor/codeigniter4/framework/system/Common.md#view)
 35. [view_cell](../api/vendor/codeigniter4/framework/system/Common.md#view_cell)
 
-#### MockCommon
-1. [is_cli](../api/vendor/codeigniter4/framework/system/Test/Mock/MockCommon.md#is_cli)
-
 #### test_helper
 1. [fake](../api/vendor/codeigniter4/framework/system/Helpers/test_helper.md#fake)
 
@@ -622,5 +470,5 @@
 <hr>
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:03**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:03**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

@@ -1452,5 +1452,5 @@ public function callFunction(string $functionName, ...$params);
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:09**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:11**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>

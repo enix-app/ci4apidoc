@@ -9,7 +9,7 @@
 <tr>
 <td style="width:100%"><em>framework/system/Throttle/Throttler.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Test/TestLogger.md">prev</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Session/SessionInterface.md">prev</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Throttle/ThrottlerInterface.md">next</a></td>
 </tr>
 </table>
@@ -893,7 +893,7 @@ public function time(): int
 <tr>
 <td style="width:100%"><em>framework/system/Throttle/Throttler.php</em></td>
 <td><a href="../../../../../../api/index.md">index</a></td>
-<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Test/TestLogger.md">prev</a></td>
+<td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Session/SessionInterface.md">prev</a></td>
 <td><a href="../../../../../../api/vendor/codeigniter4/framework/system/Throttle/ThrottlerInterface.md">next</a></td>
 <td><a href="#">top</a></td></tr>
 </table>
@@ -903,5 +903,5 @@ public function time(): int
 
 <div style="text-align:right;">
 
-<small>_Generated at **2020-08-14 07:35:16**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
+<small>_Generated at **2020-08-15 12:03:19**_ *([EnixApp](https://github.com/enix-app) - [ApiDoc](https://github.com/enix-app/apidoc))*</small>
 </div>
